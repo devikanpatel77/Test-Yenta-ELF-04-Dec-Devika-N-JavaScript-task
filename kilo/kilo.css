@@ -1,0 +1,47 @@
+<style type="text/css">
+body {
+	margin:auto;
+	width:400px;
+}
+td {
+	text-align: center;
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.txt_Number {
+    width: 100px;
+    text-align: center;
+    border: blue 1px solid;
+    font-size: 25px;
+    background: aliceblue;
+}
+.btn_convert {
+    border: blue 1px solid;
+    background: azure;
+    color: blue;
+    font-size: 18px;
+    font-family: cursive;
+    padding: 5px;
+}
+.btn_clear {
+    border: red 1px solid;
+    background: azure;
+    color: red;
+	width: 75px;
+    font-size: 18px;
+    font-family: cursive;
+    padding: 5px;
+}
+#result {
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 70px;
+    border: blue 1px solid;
+    line-height: 80px;
+	color:red;
+}
+</style>
+s
